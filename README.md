@@ -1,6 +1,6 @@
 # Microservices Suite
 
-## Overview
+## This project has moved to the 👉 [microservices-suite organization](https://github.com/microservices-suite/node-microservices-suite)
 
 Welcome to the Microservices Suite project! This suite is a collection of Node.js microservices built using the mono-repo strategy and leveraging the Yarn workspaces concept. Each microservice runs in its isolated Docker container, and Kubernetes orchestrates the deployment, providing scalability and efficiency.
 
